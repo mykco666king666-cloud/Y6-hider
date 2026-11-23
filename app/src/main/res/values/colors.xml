@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="obsidian_window_bg">#FF07090E</color>
+    <color name="obsidian_accent_gold">#FFE5B869</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

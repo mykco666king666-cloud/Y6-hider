@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obsidian Vault</string>
+    <string name="app_tagline">Caja Fuerte Multimedia Local</string>
+    <string name="nav_vault">Bóveda</string>
+    <string name="nav_albums">Álbumes</string>
+    <string name="nav_storage">Almacen.</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="unlock_vault_title">Desbloquear Bóveda</string>
+    <string name="unlock_vault_subtitle">Introduce tu PIN de seguridad para descifrar</string>
+    <string name="forgot_pin">¿Olvidaste tu PIN?</string>
+    <string name="use_biometrics">Usar Biometría</string>
+    <string name="empty_vault_title">Tu Bóveda Privada Está Vacía</string>
+    <string name="empty_vault_subtitle">Importa fotos y videos con el selector seguro de Android. Las copias se cifran localmente.</string>
+    <string name="import_media">Importar</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="profile_title">Perfil y Seguridad</string>
+    <string name="storage_title">Gestión de Almacenamiento</string>
+    <string name="backup_title">Copia Cifrada y Restauración</string>
+    <string name="albums_title">Álbumes Privados</string>
+</resources>

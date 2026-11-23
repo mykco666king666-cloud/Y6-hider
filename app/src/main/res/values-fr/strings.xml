@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obsidian Vault</string>
+    <string name="app_tagline">Coffre-Fort Média Local</string>
+    <string name="nav_vault">Coffre</string>
+    <string name="nav_albums">Albums</string>
+    <string name="nav_storage">Stockage</string>
+    <string name="nav_profile">Profil</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="unlock_vault_title">Déverrouiller le Coffre</string>
+    <string name="unlock_vault_subtitle">Entrez votre code PIN pour déchiffrer vos médias</string>
+    <string name="forgot_pin">PIN oublié ?</string>
+    <string name="use_biometrics">Biométrie</string>
+    <string name="empty_vault_title">Votre Coffre Privé est Vide</string>
+    <string name="empty_vault_subtitle">Importez vos photos et vidéos via le sélecteur sécurisé Android. Les copies sont chiffrées localement.</string>
+    <string name="import_media">Importer</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="profile_title">Profil et Sécurité</string>
+    <string name="storage_title">Gestion du Stockage</string>
+    <string name="backup_title">Sauvegarde Chiffrée</string>
+    <string name="albums_title">Albums Privés</string>
+</resources>

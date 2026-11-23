@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="file" path="vault_media" />
+    <exclude domain="file" path="vault_thumbs" />
+    <exclude domain="file" path=".vault_key.bin" />
+    <exclude domain="database" path="obsidian_vault.db" />
+</full-backup-content>

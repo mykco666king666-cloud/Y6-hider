@@ -1,0 +1,8 @@
+{
+  "name": "Y6Obsidian Vault",
+  "description": "Private encrypted photo and video vault with PIN and biometric lock, albums, storage analytics, and encrypted local backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obsidian Vault</string>
+    <string name="app_tagline">Zero-Knowledge Local Media Safe</string>
+    <string name="nav_vault">Vault</string>
+    <string name="nav_albums">Albums</string>
+    <string name="nav_storage">Storage</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+    <string name="unlock_vault_title">Unlock Obsidian Vault</string>
+    <string name="unlock_vault_subtitle">Enter your security PIN to decrypt your media</string>
+    <string name="forgot_pin">Forgot PIN?</string>
+    <string name="use_biometrics">Use Biometrics</string>
+    <string name="empty_vault_title">Your Private Vault Is Empty</string>
+    <string name="empty_vault_subtitle">Import photos and videos using the secure Android Photo Picker. Copies are encrypted inside private app storage.</string>
+    <string name="import_media">Import Media</string>
+    <string name="settings_title">Settings</string>
+    <string name="profile_title">Profile &amp; Security</string>
+    <string name="storage_title">Storage Management</string>
+    <string name="backup_title">Encrypted Backup &amp; Restore</string>
+    <string name="albums_title">Private Albums</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obsidian Vault</string>
+    <string name="app_tagline">Lokaler Mediensafe</string>
+    <string name="nav_vault">Tresor</string>
+    <string name="nav_albums">Alben</string>
+    <string name="nav_storage">Speicher</string>
+    <string name="nav_profile">Profil</string>
+    <string name="nav_settings">Einstell.</string>
+    <string name="unlock_vault_title">Tresor Entsperren</string>
+    <string name="unlock_vault_subtitle">Sicherheits-PIN eingeben, um Medien zu entschlüsseln</string>
+    <string name="forgot_pin">PIN vergessen?</string>
+    <string name="use_biometrics">Biometrie nutzen</string>
+    <string name="empty_vault_title">Dein Privater Tresor ist Leer</string>
+    <string name="empty_vault_subtitle">Importiere Fotos und Videos sicher über die Android-Auswahl. Kopien werden lokal verschlüsselt.</string>
+    <string name="import_media">Importieren</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="profile_title">Profil &amp; Sicherheit</string>
+    <string name="storage_title">Speicherverwaltung</string>
+    <string name="backup_title">Verschlüsseltes Backup</string>
+    <string name="albums_title">Private Alben</string>
+</resources>
